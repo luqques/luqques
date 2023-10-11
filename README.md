@@ -7,6 +7,13 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luqques&theme=blue-green)
 
 ### Tecnologias
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
+    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />    
+</div>
+
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
