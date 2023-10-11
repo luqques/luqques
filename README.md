@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá! Seja bem vindo ao meu repositório GitHub! 👋
 
+[![LinkedIn](https://www.linkedin.com/in/lucas-da-cunha-dev)]
 <!--
 **luqques/luqques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
