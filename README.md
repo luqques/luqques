@@ -6,11 +6,10 @@
 
 ![Lucas GitHub status](https://github-readme-stats.vercel.app/api?username=luqques&show_icons=true&theme=merko)
 
----
-
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luqques&theme=blue-green)
 
 ---
+
 ### Tecnologias
 <div style="display: inline_block"><br>     
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
@@ -23,6 +22,7 @@
   <img align="center" alt="Lucas-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Lucas-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
+
 ---
 
 ### Banco de dados
@@ -31,4 +31,3 @@
   <img align="center" alt="Lucas-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
----
