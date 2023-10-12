@@ -4,8 +4,6 @@
 
 ---
 
-![Lucas GitHub status](https://github-readme-stats.vercel.app/api?username=luqques&show_icons=true&theme=merko)
-
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luqques&theme=blue-green)
 
 ---
