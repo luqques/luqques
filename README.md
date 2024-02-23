@@ -8,8 +8,10 @@
 
 ---
 
-### Tecnologias
-<div style="display: inline_block"><br>     
+### Tech Stacks
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat-square&logo=azure-devops)&nbsp;
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
   <img align="center" alt="Lucas-dotnetcore" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Lucas-DotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
