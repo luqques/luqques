@@ -5,12 +5,19 @@
 Meu nome é Lucas da Cunha e estou sempre buscando novos conhecimentos na área tech. Trabalho atualmente como Estagiário na Cooperativa Central Ailos e aluno de Sistemas de Informação na Cruzeiro do Sul Virtual.
 
 ## 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23&logoColor=512BD4)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat-square&logo=dotnet&logoColor=512BD4)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular&logoColor=DD0031)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)&nbsp;
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat-square&logo=oracle)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker&logoColor=2CA5E0)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat-square&logo=Postman&logoColor=FF6C37)&nbsp;
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat-square&logo=oracle&logoColor=DD0031)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=oracle)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=oracle&logoColor=DD0031)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat-square&logo=azure-devops)&nbsp;
+![WSL](https://img.shields.io/badge/Ubuntu-05122A?style=flat-square&logo=ubuntu&logoColor=E95420)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-05122A?style=flat-square&logo=tailwind-css&logoColor=38B2AC)&nbsp;
+![Git](https://img.shields.io/badge/GIT-05122A?style=flat-square&logo=git&logoColor=E44C30)&nbsp;
