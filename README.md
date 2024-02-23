@@ -8,20 +8,16 @@
 
 ---
 
-### Tech Stacks
+## 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular&logoColor=DD0031)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)&nbsp;
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-05122A?style=flat-square&logo=oracle)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=oracle)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat-square&logo=azure-devops)&nbsp;
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
-  <img align="center" alt="Lucas-dotnetcore" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Lucas-DotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lucas-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Lucas-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
 
 ---
 
