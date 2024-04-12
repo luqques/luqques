@@ -8,6 +8,8 @@ Olá, meu nome é Lucas da Cunha, tenho 20 anos e estou sempre buscando novos co
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23&logoColor=512BD4)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat-square&logo=dotnet&logoColor=512BD4)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular&logoColor=DD0031)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=nextjs&logoColor=nextjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker&logoColor=2CA5E0)&nbsp;
