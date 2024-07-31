@@ -4,7 +4,7 @@
 
 Olá, meu nome é Lucas da Cunha, tenho 21 anos e estou sempre buscando novos conhecimentos na área tech. Trabalho atualmente com análise e desenvolvimento de sistemas na Cooperativa Central Ailos e estou no 7º semestre de Sistemas de Informação.
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stacks
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23&logoColor=512BD4)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat-square&logo=dotnet&logoColor=512BD4)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular&logoColor=DD0031)&nbsp;
