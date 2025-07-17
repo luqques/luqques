@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-cunha-dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.da.cunha.dev@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@luques) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.dcunha/)
 
-Olá, meu nome é Lucas da Cunha, tenho 22 anos e estou sempre buscando novos conhecimentos na área tech. Trabalho atualmente com análise e desenvolvimento de sistemas na Localiza@Co e estou no 8º semestre de Sistemas de Informação.
+Olá, meu nome é Lucas da Cunha, tenho 22 anos e estou sempre buscando novos conhecimentos na área tech. Trabalho atualmente com análise e desenvolvimento de sistemas na Localiza&Co e estou no 8º semestre de Sistemas de Informação.
 
 ## Tech Stacks
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23&logoColor=512BD4)&nbsp;
